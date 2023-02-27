@@ -1,0 +1,17 @@
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.card {
+    width: 400px;
+    display: flex;
+    padding: 20px;
+    background-color: darkorchid;
+    margin: auto 0 auto 0;
+    text-align: center;
+}
+    
+.info {
+       margin: 0 10px; 
+    }
